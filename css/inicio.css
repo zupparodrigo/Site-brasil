@@ -2,7 +2,7 @@
     box-sizing: border-box;
  padding: 0;
  margin: 0;   
-
+font-family: "poppins", sans-serif;
 }
 
 body{
@@ -29,7 +29,7 @@ font-size: 20px;
 
 li a{
 text-decoration: none;
-color: white;
+color: black;
 
 
 }
@@ -38,7 +38,9 @@ h1{
     align-items: center;
     font-size: 70px;
     margin-top: 32rem;
+    color: #0b0b64;
 }
 p{
-    font-size: 60px;
+    color: #0b0b64;
+    font-size: 40px;
 }
