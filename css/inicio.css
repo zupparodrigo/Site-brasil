@@ -3,11 +3,12 @@
  padding: 0;
  margin: 0;   
 font-family: "poppins", sans-serif;
+
 }
 
 body{
 
-background-image: url(../assets/image\ copy\ 3.png);
+background-image: url(../assets/fundo.png);
 background-repeat: no-repeat;
 background-size: cover;
 
@@ -16,14 +17,13 @@ background-size: cover;
 
 
 
-
 header img {
 
 
-max-width: 3.8rem;
-border-radius: 40rem;
-
-}
+    max-width: 3.8rem;
+    border-radius: 15rem;
+    
+    }
 nav{
     display: flex;
 list-style: none;
@@ -37,15 +37,20 @@ text-decoration: none;
 color: black;
 
 
-}
 
-h1{
+}
+a {
+text-decoration: none ;
+}
+h1 {
     align-items: center;
-    font-size: 70px;
+    font-size: 60px;
     margin-top: 32rem;
     color: yellow;
+    text-decoration: none;
 }
 p{
-    color: white;
+color: white;
+
     font-size: 40px;
 }
